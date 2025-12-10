@@ -1,0 +1,16 @@
+h3{
+    color: blue;
+    background-color: black;
+    text-align: center;
+}
+
+.X{
+    color: green;
+    font-size: large;
+    text-align: center;
+}
+#Y{
+    color: rgb(255, 0, 0);
+    font-size: large;
+    text-align: center;
+}
