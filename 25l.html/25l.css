@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Dancing+Script:wght@400..700&family=Lavishly+Yours&family=Rubik+Gemstones&display=swap');
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.y{
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 7px 2px 20px blue;
+    font-family: "Lavishly Yours", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(238, 255, 0);
+}
+
+
+/* underline
+line-trough
+overline
+underline overline 
+solid 
+dotted wavy*/
